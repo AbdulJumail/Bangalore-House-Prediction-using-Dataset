@@ -1,11 +1,8 @@
-<div align="center">
- <a href="https://github.com/aaronDev28/Bangalore_House_Price_Prediction_oneAPI" >   
-  <img src="https://github.com/joelbkoshy/Assets/blob/main/pngwing.com.png" width="80" height="90">
-  </div>
+
   <h1 align="center">BANGALORE HOUSE PRICE PREDICTION </h1>
 
   <p align="center">
-      Welcome to our project!
+      Welcome to the project!
     <br />
     <br />
     
@@ -23,9 +20,7 @@
 
 # What It Does <img src= "https://user-images.githubusercontent.com/72274851/218503394-b52dfcc9-0620-4f44-94f5-46a09a5cc970.png" width="50" height="50">
 
-<div align="center">
- <img src="https://github.com/joelbkoshy/Assets/blob/main/projectgif.gif" type="gif" alt="png" width="750">
- </div>
+
 
 <h2>Project Description</h2>
 <p>Bengaluru House Prediction is an advanced machine learning model that predicts the estimated home price based on various features such as square feet, bedroom, bathroom, location, and more. It follows a robust data science process, including data loading and cleaning, outlier detection and removal, feature engineering, dimensionality reduction, and hyperparameter tuning using GridSearchCV and k-fold cross-validation. The project is built on a Python Flask server that consumes the trained machine learning model and exposes HTTP endpoints for various requests. Additionally, it uses a pickle file to store the trained model.</p>
@@ -44,8 +39,6 @@
 * [![python][python]][python-url]
 * [![jupyter][jupyter]][jupyter-url]
 
-## Intel oneAPI <img src="https://github.com/joelbkoshy/Assets/blob/main/oneapi2.png" alt="png" width="30">
-
 Intel oneAPI is a robust suite of software development tools meticulously crafted to streamline the creation of high-performance applications across a diverse array of architectures, encompassing CPUs, GPUs, FPGAs, and other accelerators. A hallmark benefit of oneAPI lies in its ability to empower developers to harness the full potential of contemporary hardware, spanning the latest CPUs and GPUs, all without the need to craft distinct code for each platform. This capability not only saves time and reduces development overheads but also augments the overall performance of applications. Common applications of oneAPI encompass the development of machine learning models, acceleration of data analytics workloads, and optimization of scientific simulations.
 
 
@@ -60,9 +53,7 @@ from sklearnex import patch_sklearn
 patch_sklearn()
 ```
 
-Some few examples in the project:<br>
-<img src="https://github.com/joelbkoshy/Assets/blob/main/intel1.png" alt="png" width="600">
-<img src="https://github.com/joelbkoshy/Assets/blob/main/intel2.png" alt="png"  width="600">
+
 
 This allowed us to seamlessly integrate oneDAL into our existing codebase and take advantage of its powerful capabilities without having to rewrite our entire code. With oneDAL, we were able to accelerate the training of our models and improve their accuracy, allowing us to make more accurate predictions about the prices of houses in Bengaluru based on various features such as square feet, bedrooms, bathrooms, and location.
 
@@ -86,7 +77,7 @@ Overall, the use of oneDAL in our project was crucial to achieving the level of 
 ### ✅Save the model
 
 ### User Interface
-![intel](https://github.com/joelbkoshy/read/blob/main/ui.png)
+#Photo will upload 
 
 # What we learned <img src= "https://user-images.githubusercontent.com/72274851/218499685-e8d445fc-e35e-4ab5-abc1-c32462592603.png" alt="png" width="50">
 
