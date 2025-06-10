@@ -60,7 +60,7 @@ This allowed us to seamlessly integrate oneDAL into our existing codebase and ta
 Overall, the use of oneDAL in our project was crucial to achieving the level of accuracy, efficiency, and optimization necessary for accurate house price predictions. By leveraging the power of Intel's oneAPI platform, we were able to take our machine learning models to the next level and produce results that exceeded our expectations.
 
 
-# How We built it <img src= "https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png" alt="png" width="50">
+# How i built it <img src= "https://user-images.githubusercontent.com/72274851/218502434-f6e66043-0db0-4f85-b7f4-f33b2d33df1f.png" alt="png" width="50">
 
 ### ✅ First We Imported libraries
 
