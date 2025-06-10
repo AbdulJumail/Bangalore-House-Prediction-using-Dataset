@@ -8,7 +8,7 @@
       Welcome to our project!
     <br />
     <br />
-    <a href="https://www.youtube.com/watch?v=l9oMgSgGNek">View Demo</a>
+    
   </p>
 </div>
 
